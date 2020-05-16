@@ -23,7 +23,7 @@
 }
 
 .js-clock {
-	font-size: 2.0rem;
+	font-size: 3.0rem;
 }
 
 .form,
@@ -46,6 +46,12 @@ body {
 	to {
 		opacity: 1;
 	}
+}
+
+input {
+  	width:200px;
+  	height:30px;
+  	font-size:20px;
 }
 
 .bgImage {
