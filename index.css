@@ -67,3 +67,23 @@ input {
 .js-weather {
 	font-size: 1.2rem;
 }
+
+.bgColor_1 {
+	background-color: red;
+}
+
+.bgColor_2 {
+	background-color: #00005c;
+}
+
+.bgColor_3 {
+	background-color: #c060a1;
+}
+
+.bgColor_4 {
+	background-color: #ffd31d;
+}
+
+.bgColor_5 {
+	background-color: #ff5200;
+}
